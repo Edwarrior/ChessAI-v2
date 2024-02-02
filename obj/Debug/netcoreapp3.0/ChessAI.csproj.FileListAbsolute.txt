@@ -1,0 +1,4 @@
+C:\Users\ecpto\Documents\C#\ChessAI\obj\Debug\netcoreapp3.0\ChessAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecpto\Documents\C#\ChessAI\obj\Debug\netcoreapp3.0\ChessAI.AssemblyInfoInputs.cache
+C:\Users\ecpto\Documents\C#\ChessAI\obj\Debug\netcoreapp3.0\ChessAI.AssemblyInfo.cs
+C:\Users\ecpto\Documents\C#\ChessAI\obj\Debug\netcoreapp3.0\ChessAI.csproj.CoreCompileInputs.cache
